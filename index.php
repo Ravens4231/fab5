@@ -1,5 +1,7 @@
 <?php
 
+$naam = "Piet" 
+
 echo "
     <!DOCTYPE html>
 
