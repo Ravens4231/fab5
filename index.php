@@ -7,8 +7,8 @@
 </head>
 
 <body>
-    <h1></h1>
-    <h3></h3>
+    <h1> Hallo</h1>
+    <h3> bedankt voor het delen van jou naam met ons</h3>
 </body>
 
 </html>
